@@ -6,3 +6,5 @@ This is my first front-end development portofolio. In this portfolio, there are 
 3. Self-Chef (NodeJS, ExpressJS, JavaScript, HTML, CSS)
 4. Etch-a-sketch (JavaScript, HTML, CSS)
 5. Calculator (JavaScript, HTML, CSS)
+
+Demo: https://jinc1026.github.io/FE-Portfolio/
